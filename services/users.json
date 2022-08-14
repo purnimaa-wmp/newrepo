@@ -1,0 +1,15 @@
+{
+    "posts":[
+      {
+        "id": 1,
+        "first_name": "alpha",
+        "last_name": "singh",
+        "email": "alphasingh@gmail.com"
+      },
+      {
+        "id": 3,
+        "first_name": "paddington",
+        "last_name": "brown",
+        "email": "paddingtonbrown@gmail.com"
+      }]
+}
